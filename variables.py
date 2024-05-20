@@ -1,3 +1,4 @@
+
 myInt = 5
 myStr = "Hello"
 myFloat = 3.14159
@@ -14,3 +15,13 @@ print(myList)
 print(myTuple)
 print(myDict)
 print(mySet)
+
+name = "Mr Sam"
+object1 = "Car"
+object1_color = "Red"
+object1_age = 23
+
+print("Hello, " + name)
+print("I like your " + object1)
+print("Is it " + object1_color)
+print("Is your car", object1_age, " years older than your house")

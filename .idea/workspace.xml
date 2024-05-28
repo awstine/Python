@@ -43,22 +43,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.PRAC.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.example1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.example2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fuctions1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.if.executor&quot;: &quot;Run&quot;,
-    &quot;Python.interactions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.returnStatements.executor&quot;: &quot;Run&quot;,
-    &quot;Python.variables.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.PRAC.executor": "Run",
+    "Python.ex1.executor": "Run",
+    "Python.example1.executor": "Run",
+    "Python.example2.executor": "Run",
+    "Python.fuctions1.executor": "Run",
+    "Python.if.executor": "Run",
+    "Python.ifExample.executor": "Run",
+    "Python.interactions.executor": "Run",
+    "Python.list.executor": "Run",
+    "Python.returnStatements.executor": "Run",
+    "Python.variables.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -115,7 +117,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716578157111</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1716578170192</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1716578170192</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

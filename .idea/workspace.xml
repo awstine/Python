@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="bd737af3-d769-4a65-9dae-75b92051491c" name="Changes" comment="initial commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forLoopPrac2.py" beforeDir="false" afterPath="$PROJECT_DIR$/forLoopPrac2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,11 +48,13 @@
   &quot;keyToString&quot;: {
     &quot;Python.PRAC.executor&quot;: &quot;Run&quot;,
     &quot;Python.Prac2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classProject.executor&quot;: &quot;Run&quot;,
     &quot;Python.conversionOfDataType.executor&quot;: &quot;Run&quot;,
     &quot;Python.ex1.executor&quot;: &quot;Run&quot;,
     &quot;Python.example1.executor&quot;: &quot;Run&quot;,
     &quot;Python.example2.executor&quot;: &quot;Run&quot;,
     &quot;Python.forLoopPrac.executor&quot;: &quot;Run&quot;,
+    &quot;Python.forLoopPrac2.executor&quot;: &quot;Run&quot;,
     &quot;Python.fuctions1.executor&quot;: &quot;Run&quot;,
     &quot;Python.if.executor&quot;: &quot;Run&quot;,
     &quot;Python.ifExample.executor&quot;: &quot;Run&quot;,
@@ -65,6 +68,11 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Python\pythonProject\pizza" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="forLoopPrac" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
@@ -174,7 +182,47 @@
       <option name="project" value="LOCAL" />
       <updated>1717076971183</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1718033291635</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1718033291635</updated>
+    </task>
+    <task id="LOCAL-00010" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1718033323626</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1718033323626</updated>
+    </task>
+    <task id="LOCAL-00011" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1718033350010</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1718033350010</updated>
+    </task>
+    <task id="LOCAL-00012" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1718033373330</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1718033373330</updated>
+    </task>
+    <task id="LOCAL-00013" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1718033409600</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1718033409600</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

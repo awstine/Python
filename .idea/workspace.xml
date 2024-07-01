@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd737af3-d769-4a65-9dae-75b92051491c" name="Changes" comment="initial commit" />
+    <list default="true" id="bd737af3-d769-4a65-9dae-75b92051491c" name="Changes" comment="initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,7 +54,10 @@
     "Python.Prac2.executor": "Run",
     "Python.classProject.executor": "Run",
     "Python.conversionOfDataType.executor": "Run",
+<<<<<<< HEAD
     "Python.dictonary.executor": "Run",
+=======
+>>>>>>> origin/main
     "Python.ex1.executor": "Run",
     "Python.example1.executor": "Run",
     "Python.example2.executor": "Run",
@@ -67,7 +72,11 @@
     "Python.returnStatements.executor": "Run",
     "Python.variables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+<<<<<<< HEAD
     "git-widget-placeholder": "main",
+=======
+    "git-widget-placeholder": "neww-feature",
+>>>>>>> origin/main
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
@@ -330,6 +339,7 @@
       <option name="project" value="LOCAL" />
       <updated>1718383058353</updated>
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00027" summary="initial commit">
       <option name="closed" value="true" />
       <created>1719315600133</created>
@@ -347,6 +357,9 @@
       <updated>1719845636949</updated>
     </task>
     <option name="localTasksCounter" value="29" />
+=======
+    <option name="localTasksCounter" value="27" />
+>>>>>>> origin/main
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

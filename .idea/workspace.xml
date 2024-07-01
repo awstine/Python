@@ -46,30 +46,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.PRAC.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Prac2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.classProject.executor&quot;: &quot;Run&quot;,
-    &quot;Python.conversionOfDataType.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.example1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.example2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.forLoopPrac.executor&quot;: &quot;Run&quot;,
-    &quot;Python.forLoopPrac2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fuctions1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.if.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ifExample.executor&quot;: &quot;Run&quot;,
-    &quot;Python.interactions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.list.executor&quot;: &quot;Run&quot;,
-    &quot;Python.loop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.returnStatements.executor&quot;: &quot;Run&quot;,
-    &quot;Python.variables.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.PRAC.executor": "Run",
+    "Python.Prac2.executor": "Run",
+    "Python.classProject.executor": "Run",
+    "Python.conversionOfDataType.executor": "Run",
+    "Python.dictonary.executor": "Run",
+    "Python.ex1.executor": "Run",
+    "Python.example1.executor": "Run",
+    "Python.example2.executor": "Run",
+    "Python.forLoopPrac.executor": "Run",
+    "Python.forLoopPrac2.executor": "Run",
+    "Python.fuctions1.executor": "Run",
+    "Python.if.executor": "Run",
+    "Python.ifExample.executor": "Run",
+    "Python.interactions.executor": "Run",
+    "Python.list.executor": "Run",
+    "Python.loop.executor": "Run",
+    "Python.returnStatements.executor": "Run",
+    "Python.variables.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\Python\pythonProject\Python1" />
@@ -108,7 +109,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-babbdf50b680-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.15989.155" />
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
       </set>
     </attachedChunks>
   </component>
@@ -337,7 +338,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719315600134</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1719845636949</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1719845636949</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
